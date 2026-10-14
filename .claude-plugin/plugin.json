@@ -1,7 +1,7 @@
 {
   "name": "ranla",
   "displayName": "Ranla",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Ranla is an AI growth engineer for software businesses. From Claude Code, ask how growth is going, have Ranla draft campaigns, pages and Reddit replies, answer its approvals, and wire your product's sign-up and activation events. The same workspace sends transactional email.",
   "author": {
     "name": "Ranla",

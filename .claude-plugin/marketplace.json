@@ -1,0 +1,18 @@
+{
+  "name": "ranla",
+  "owner": {
+    "name": "Ranla",
+    "email": "contact@ranla.ai",
+    "url": "https://ranla.ai"
+  },
+  "description": "Ranla for Claude Code: an AI growth agent for software businesses.",
+  "plugins": [
+    {
+      "name": "ranla",
+      "source": "./",
+      "description": "Work with Ranla from Claude Code: growth health, campaigns, pages, Reddit replies and approvals through Ranla's hosted MCP, plus skills for wiring sign-up and activation events.",
+      "category": "productivity",
+      "tags": ["growth", "marketing", "lifecycle-email", "seo", "mcp"]
+    }
+  ]
+}

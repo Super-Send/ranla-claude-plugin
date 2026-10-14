@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "ranla": {
+      "type": "http",
+      "url": "https://mcp.ranla.ai/mcp"
+    }
+  }
+}

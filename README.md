@@ -1,6 +1,6 @@
 # Ranla plugin for Claude Code
 
-Ranla is an AI growth agent for software businesses. It writes and ships pages that rank on Google, gets your product named in AI answers, replies on Reddit, and sends the emails that turn sign-ups into customers. This plugin connects Claude Code to your Ranla workspace.
+Ranla is an AI growth engineer for software businesses. It writes and ships pages that rank on Google, gets your product named in AI answers, replies on Reddit, and sends the emails that turn sign-ups into customers. This plugin connects Claude Code to your Ranla workspace.
 
 ## Install
 

@@ -5,7 +5,7 @@
     "email": "contact@ranla.ai",
     "url": "https://ranla.ai"
   },
-  "description": "Ranla for Claude Code: an AI growth agent for software businesses.",
+  "description": "Ranla for Claude Code: an AI growth engineer for software businesses.",
   "plugins": [
     {
       "name": "ranla",
